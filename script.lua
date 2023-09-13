@@ -56,7 +56,7 @@ Page.Button({
 
 Page.Slider({
     Text = "Money",
-    Min = 100,
+    Min = 10000,
     Max = 10000,
     Def = 0,
     Callback = function(val)
